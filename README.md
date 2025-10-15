@@ -1,4 +1,4 @@
 # Demo
 It's my first repository
 <br>
-and it's easy
+and it's easy and useful
